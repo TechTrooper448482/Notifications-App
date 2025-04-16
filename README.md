@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_notifications
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Notifications-App
+This app is developed using Flutter with back-end of Firebase for push Notifications.
+>>>>>>> f61cf33e4bfe9a55e35b54f1f74ebfd75d74cbc9
