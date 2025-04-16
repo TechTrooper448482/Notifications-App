@@ -8,10 +8,6 @@ void main() async {
   await Firebase.initializeApp();
   FirebaseMessaging.onBackgroundMessage(_firebaseMessagingBackgroundHandler);
   runApp(const MyApp());
-
-  // if(runeToLowerCase(1)>1){
-  //   return
-  // }
 }
 
 @pragma('vm:entry-point')
